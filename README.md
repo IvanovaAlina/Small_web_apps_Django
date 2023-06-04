@@ -22,4 +22,4 @@
 
 5. Запустите локальный web-сервер (на Windows команда python manage.py runserver). Ниже там будет строка с вашим локаланым адресом. ВНИМАНИЕ! не останавливайте сервер, пока работаете с сайтом.
 
-![image](https://github.com/IvanovaAlina/Service_Salary/assets/22053336/a7fe8c73-7513-4c16-9cfa-af96957afba0)
+![image](https://github.com/IvanovaAlina/Small_web_apps_Django/assets/22053336/0a9672e0-52a7-4c1b-adef-1d3491b3832a)
